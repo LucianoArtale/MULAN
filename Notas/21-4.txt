@@ -1,4 +1,4 @@
-Hoy cree el repositorio de GitHub. Felicitenme, soy un genio (?
+﻿Hoy cree el repositorio de GitHub. Felicitenme, soy un genio (?
 
 Solo tienen que clonarlo en sus compus y lesto!
 
@@ -29,5 +29,7 @@ Branch: fecha
 9) Como usuario quiero pedirle al asistente los datos del clima en tiempo real para saber si debo utilizar o no paraguas. 15pts. Debe ser de la locación actual, o de la solicitada.
 
 Branch: apiClima
+
+luchogato
 
 
